@@ -1,4 +1,4 @@
-# ReCapProject - Backend Project
+# ReCapProject - Backend
 
 ## C# ( .Net Core ) Car Rental Project
 
@@ -6,7 +6,7 @@
 <br />
 <p align="left">
   <a href="https://github.com/tuncerrstm/ReCapProject">
-    <img width=400 src="https://media.giphy.com/media/sDCma70RplcNG/giphy.gif" alt="ReCap Project">
+    <img width=420 src="https://media.giphy.com/media/sDCma70RplcNG/giphy.gif" alt="ReCap Project">
   </a>
   <p align="left">
    <b> Car Rental project with N-Layer Architecture.</b>
