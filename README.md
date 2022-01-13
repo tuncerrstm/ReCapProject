@@ -84,6 +84,7 @@
 [![Fluent-Validation](https://img.shields.io/badge/Fluent%20Validation-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://fluentvalidation.net/)
 
 </br>
+
 ## Specifications
 
 <details>
