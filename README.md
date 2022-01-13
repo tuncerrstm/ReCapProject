@@ -504,11 +504,11 @@ Project Link: [https://github.com/tuncerrstm/ReCapProject](https://github.com/tu
 
 [contributors-shield]: https://img.shields.io/github/contributors/maziz-create/ReCapProject-Backend.svg?style=for-the-badge
 [contributors-url]: https://github.com/tuncerrstm/ReCapProject/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/maziz-create/ReCapProject-Backend.svg?style=for-the-badge
-[forks-url]: https://github.com/maziz-create/ReCapProject-Backend/network/members
-[stars-shield]: https://img.shields.io/github/stars/maziz-create/ReCapProject-Backend.svg?style=for-the-badge
-[stars-url]: https://github.com/maziz-create/ReCapProject-Backend/stargazers
-[issues-shield]: https://img.shields.io/github/issues/maziz-create/ReCapProject-Backend.svg?style=for-the-badge
-[issues-url]: https://github.com/maziz-create/ReCapProject-Backend/issues
+[forks-shield]: https://img.shields.io/github/forks/tuncerrstm/ReCapProject-Backend.svg?style=for-the-badge
+[forks-url]: https://github.com/tuncerrstm/ReCapProject-Backend/network/members
+[stars-shield]: https://img.shields.io/github/stars/tuncerrstm/ReCapProject-Backend.svg?style=for-the-badge
+[stars-url]: https://github.com/maziz-create/tuncerrstm/stargazers
+[issues-shield]: https://img.shields.io/github/issues/tuncerrstm/ReCapProject-Backend.svg?style=for-the-badge
+[issues-url]: https://github.com/tuncerrstm/ReCapProject-Backend/issues
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://linkedin.com/in/maziz-create
+[linkedin-url]: https://linkedin.com/in/tuncerrstm
