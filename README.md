@@ -1,17 +1,14 @@
-<br />
-<p align="center">
-# ReCapProject - Backend
+# ReCapProject - Backend Project
 
 ## C# ( .Net Core ) Car Rental Project
-</p>
+
 
 <br />
-<p align="center">
+<p align="left">
   <a href="https://github.com/tuncerrstm/ReCapProject">
-    <img width=220 src="https://media.giphy.com/media/sDCma70RplcNG/giphy.gif" alt="ReCap Project">
+    <img width=320 src="https://media.giphy.com/media/sDCma70RplcNG/giphy.gif" alt="ReCap Project">
   </a>
-  <h2 align="center">ReCapProject - Backend Project</h2>
-  <p align="center">
+  <p align="left">
     Car Rental project with N-Layer Architecture.
     <br />
     <br />
@@ -71,7 +68,6 @@
 
 <img src="https://media.giphy.com/media/l0M82b7IOZIgunA5Rc/giphy.gif" align ="left" width="310" height="310">
 
-</p>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -499,7 +495,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 # Contact
 
-Tundzher Tunay RYUSTEM - [Linkedin](https://www.linkedin.com/in/tuncer-r%C3%BCstemo%C4%9Flu-74917b187//)
+Tundzher Tunay RYUSTEM - [Linkedin](https://www.linkedin.com/in/tuncer-r%C3%BCstemo%C4%9Flu-74917b187/)
 
 Project Link: [https://github.com/tuncerrstm/ReCapProject](https://github.com/tuncerrstm/ReCapProject)
 
@@ -507,13 +503,5 @@ Project Link: [https://github.com/tuncerrstm/ReCapProject](https://github.com/tu
 
 - [engindemirog](https://www.linkedin.com/in/engindemirog/)
 
-[contributors-shield]: https://img.shields.io/github/contributors/maziz-create/ReCapProject-Backend.svg?style=for-the-badge
 [contributors-url]: https://github.com/tuncerrstm/ReCapProject/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/maziz-create/ReCapProject-Backend.svg?style=for-the-badge
-[forks-url]: https://github.com/maziz-create/ReCapProject-Backend/network/members
-[stars-shield]: https://img.shields.io/github/stars/maziz-create/ReCapProject-Backend.svg?style=for-the-badge
-[stars-url]: https://github.com/maziz-create/ReCapProject-Backend/stargazers
-[issues-shield]: https://img.shields.io/github/issues/maziz-create/ReCapProject-Backend.svg?style=for-the-badge
-[issues-url]: https://github.com/maziz-create/ReCapProject-Backend/issues
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://linkedin.com/in/maziz-create
+[linkedin-shield]: https://https://www.linkedin.com/in/tuncer-r%C3%BCstemo%C4%9Flu-74917b187/
