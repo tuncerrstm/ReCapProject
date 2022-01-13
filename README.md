@@ -12,9 +12,6 @@
     Car Rental project with N-Layer Architecture.
     <br />
     <br />
-    <a href="https://github.com/tuncerrstm/ReCapProject/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/tuncerrstm/ReCapProjectd/issues">Request Feature</a>
   </p>
 </p>
 
@@ -68,7 +65,7 @@
 [linkedin]: https://www.linkedin.com/in/tuncer-r%C3%BCstemo%C4%9Flu-74917b187/
 [instagram]:https://www.instagram.com/toniochmuzi/
 
-<img src="https://media.giphy.com/media/l0M82b7IOZIgunA5Rc/giphy.gif" align ="left" width="360" height="360">
+<img src="https://media.giphy.com/media/l0M82b7IOZIgunA5Rc/giphy.gif" align ="left" width="310" height="310">
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
