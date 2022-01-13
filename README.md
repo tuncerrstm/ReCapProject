@@ -6,21 +6,20 @@
 <br />
 <p align="left">
   <a href="https://github.com/tuncerrstm/ReCapProject">
-    <img width=320 src="https://media.giphy.com/media/sDCma70RplcNG/giphy.gif" alt="ReCap Project">
+    <img width=400 src="https://media.giphy.com/media/sDCma70RplcNG/giphy.gif" alt="ReCap Project">
   </a>
   <p align="left">
-    Car Rental project with N-Layer Architecture.
-    <br />
+   <b> Car Rental project with N-Layer Architecture.</b>
     <br />
   </p>
 </p>
 
 <br />
-<p align="center">
+
 ## Hi there, I'm Tundzher. :blush:
 
 ### | Software Engineer | 
-#### | C#, Java, React Developer |
+#### | C#, Java, .Net-Core , React Developer |
 
 <font color="red"> Coffee is how I keep up with! `<code />` </font>
 
