@@ -65,8 +65,13 @@
 [linkedin]: https://www.linkedin.com/in/tuncer-r%C3%BCstemo%C4%9Flu-74917b187/
 [instagram]:https://www.instagram.com/toniochmuzi/
 
-<img src="https://media.giphy.com/media/l0M82b7IOZIgunA5Rc/giphy.gif" align ="left" width="310" height="310">
-
+<br />
+<p align="left">
+  <a href="https://github.com/tuncerrstm/ReCapProject">
+    <img src="https://media.giphy.com/media/l0M82b7IOZIgunA5Rc/giphy.gif" align ="left" width="310" height="310" alt="ReCap Project">
+  </a>
+</p>
+</br>
 
 # About The Project
 
