@@ -71,7 +71,6 @@
     <img src="https://media.giphy.com/media/l0M82b7IOZIgunA5Rc/giphy.gif" align ="left" width="310" height="310" alt="ReCap Project">
   </a>
 </p>
-</br>
 
 # About The Project
 
@@ -84,6 +83,7 @@
 [![Autofac](https://img.shields.io/badge/Autofac-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://autofac.org/)
 [![Fluent-Validation](https://img.shields.io/badge/Fluent%20Validation-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://fluentvalidation.net/)
 
+</br>
 ## Specifications
 
 <details>
