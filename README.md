@@ -1,11 +1,14 @@
+<br />
+<p align="center">
 # ReCapProject - Backend
 
 ## C# ( .Net Core ) Car Rental Project
+</p>
 
 <br />
 <p align="center">
   <a href="https://github.com/tuncerrstm/ReCapProject">
-    <img width=220 src="https://i.imgur.com/XeaXr9l.gif" alt="ReCap Project">
+    <img width=220 src="https://media.giphy.com/media/sDCma70RplcNG/giphy.gif" alt="ReCap Project">
   </a>
   <h2 align="center">ReCapProject - Backend Project</h2>
   <p align="center">
@@ -15,7 +18,8 @@
   </p>
 </p>
 
-
+<br />
+<p align="center">
 ## Hi there, I'm Tundzher. :blush:
 
 ### | Software Engineer | 
@@ -66,6 +70,8 @@
 [instagram]:https://www.instagram.com/toniochmuzi/
 
 <img src="https://media.giphy.com/media/l0M82b7IOZIgunA5Rc/giphy.gif" align ="left" width="310" height="310">
+
+</p>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -502,7 +508,7 @@ Project Link: [https://github.com/tuncerrstm/ReCapProject](https://github.com/tu
 - [engindemirog](https://www.linkedin.com/in/engindemirog/)
 
 [contributors-shield]: https://img.shields.io/github/contributors/maziz-create/ReCapProject-Backend.svg?style=for-the-badge
-[contributors-url]: https://github.com/maziz-create/ReCapProject-Backend/graphs/contributors
+[contributors-url]: https://github.com/tuncerrstm/ReCapProject/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/maziz-create/ReCapProject-Backend.svg?style=for-the-badge
 [forks-url]: https://github.com/maziz-create/ReCapProject-Backend/network/members
 [stars-shield]: https://img.shields.io/github/stars/maziz-create/ReCapProject-Backend.svg?style=for-the-badge
