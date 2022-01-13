@@ -1,27 +1,23 @@
-# ReCapProject
+# ReCapProject - Backend
 
-# FinalProject - Backend
-
-## C# ( .Net Core ) E-Commerce Project
+## C# ( .Net Core ) Car Rental Project
 
 <br />
 <p align="center">
   <a href="https://github.com/tuncerrstm/ReCapProject">
     <img width=220 src="https://i.imgur.com/XeaXr9l.gif" alt="ReCap Project">
   </a>
-  <h2 align="center">ReCapProject - Backend</h2>
+  <h2 align="center">ReCapProject - Backend Project</h2>
   <p align="center">
     Car Rental project with N-Layer Architecture.
     <br />
     <br />
-    <a href="https://github.com/maziz-create/ReCapProject-Backend/issues">Report Bug</a>
+    <a href="https://github.com/tuncerrstm/ReCapProject/issues">Report Bug</a>
     ·
-    <a href="https://github.com/maziz-create/ReCapProject-Backend/issues">Request Feature</a>
+    <a href="https://github.com/tuncerrstm/ReCapProjectd/issues">Request Feature</a>
   </p>
 </p>
 
-
-<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" align ="left" width="375" height="375" >
 
 ## Hi there, I'm Tundzher. :blush:
 
