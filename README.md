@@ -493,9 +493,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 # Contact
 
-Mehmet Aziz ALGÜLLÜ - [Linkedin](https://www.linkedin.com/in/mehmet-aziz-algullu/)
+Tundzher Tunay RYUSTEM - [Linkedin](https://www.linkedin.com/in/tuncer-r%C3%BCstemo%C4%9Flu-74917b187//)
 
-Project Link: [https://github.com/maziz-create/ReCapProject-Backend](https://github.com/maziz-create/ReCapProject-Backend)
+Project Link: [https://github.com/tuncerrstm/ReCapProject](https://github.com/tuncerrstm/ReCapProject)
 
 # Acknowledgements
 
