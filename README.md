@@ -502,5 +502,13 @@ Project Link: [https://github.com/tuncerrstm/ReCapProject](https://github.com/tu
 
 - [engindemirog](https://www.linkedin.com/in/engindemirog/)
 
+[contributors-shield]: https://img.shields.io/github/contributors/maziz-create/ReCapProject-Backend.svg?style=for-the-badge
 [contributors-url]: https://github.com/tuncerrstm/ReCapProject/graphs/contributors
-[linkedin-shield]: https://https://www.linkedin.com/in/tuncer-r%C3%BCstemo%C4%9Flu-74917b187/
+[forks-shield]: https://img.shields.io/github/forks/maziz-create/ReCapProject-Backend.svg?style=for-the-badge
+[forks-url]: https://github.com/maziz-create/ReCapProject-Backend/network/members
+[stars-shield]: https://img.shields.io/github/stars/maziz-create/ReCapProject-Backend.svg?style=for-the-badge
+[stars-url]: https://github.com/maziz-create/ReCapProject-Backend/stargazers
+[issues-shield]: https://img.shields.io/github/issues/maziz-create/ReCapProject-Backend.svg?style=for-the-badge
+[issues-url]: https://github.com/maziz-create/ReCapProject-Backend/issues
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://linkedin.com/in/maziz-create
