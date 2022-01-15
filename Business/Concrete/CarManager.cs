@@ -42,37 +42,49 @@ namespace Business.Concrete
 
         public IDataResult<List<Car>> GetAll()
         {
-            throw new NotImplementedException();
+            if (DateTime.Now.Hour == 03)
+            {
+                return new ErrorDataResult<List<Car>>(Messages.MaintenanceTime);
+            }
+
+            return new SuccessDataResult<List<Car>>(_carDal.GetAll());
         }
 
         public IDataResult<Car> GetById(int id)
         {
-            throw new NotImplementedException();
+            return new SuccessDataResult<Car>(_carDal.Get(c => c.CarId == id));
         }
 
         public IDataResult<CarDetailDto> GetCarDetails(int id)
         {
-            throw new NotImplementedException();
+            return new SuccessDataResult<CarDetailDto>(_carDal.GetCarDetails(c => c.CarId == id));
         }
 
         public IDataResult<List<Car>> GetCarsByBrandId(int id)
         {
-            throw new NotImplementedException();
+            return new SuccessDataResult<List<Car>>(_carDal.GetAll(c => c.BrandId == id));
         }
 
         public IDataResult<List<Car>> GetCarsByColorId(int id)
         {
-            throw new NotImplementedException();
+            return new SuccessDataResult<List<Car>>(_carDal.GetAll(c => c.ColorId == id));
         }
 
         public IDataResult<List<Car>> GetCarsByDailyPrice(decimal min, decimal max)
         {
-            throw new NotImplementedException();
+            var result = new SuccessDataResult<List<Car>>(_carDal.GetAll(c => c.DailyPrice >= min && c.DailyPrice <= max));
+
+            if (result.Data.Count == 0)
+            {
+                return new ErrorDataResult<List<Car>>(Messages.CarListingFailed);
+            }
+
+            return new SuccessDataResult<List<Car>>(_carDal.GetAll(c => c.DailyPrice >= min && c.DailyPrice <= max));
         }
 
         public IDataResult<List<CarDetailDto>> GetDetailsOfCars()
         {
-            throw new NotImplementedException();
+            return new SuccessDataResult<List<CarDetailDto>>(_carDal.GetDetailsOfCars());
         }
 
         public IResult Update(Car car)
