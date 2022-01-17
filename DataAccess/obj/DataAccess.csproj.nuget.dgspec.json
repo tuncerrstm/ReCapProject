@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Core\\Core.csproj": {
+    "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -98,11 +98,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Core\\Core.csproj"
+              "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Core\\Core.csproj"
               },
-              "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -117,7 +117,23 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.2, )"
             }
@@ -141,14 +157,14 @@
         }
       }
     },
-    "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -170,8 +186,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Core\\Core.csproj"
+              "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Core\\Core.csproj"
               }
             }
           }

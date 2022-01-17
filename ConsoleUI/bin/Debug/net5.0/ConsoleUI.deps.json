@@ -1062,6 +1062,7 @@
         "dependencies": {
           "Core": "1.0.0",
           "Entities": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.2"
         },
         "runtime": {

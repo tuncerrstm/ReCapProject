@@ -1515,6 +1515,7 @@
         "dependencies": {
           "Core": "1.0.0",
           "Entities": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.2"
         },
         "compile": {
@@ -5748,11 +5749,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5774,14 +5775,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Business\\Business.csproj"
+            "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Business\\Business.csproj"
             },
-            "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Entities\\Entities.csproj"
+            "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Entities\\Entities.csproj"
             }
           }
         }
