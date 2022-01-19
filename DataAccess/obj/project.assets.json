@@ -5806,11 +5806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5832,11 +5832,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Core\\Core.csproj"
+            "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Core\\Core.csproj"
             },
-            "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\Documents\\GitHub\\ReCapProject\\Entities\\Entities.csproj"
+            "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\ReCapProject\\Entities\\Entities.csproj"
             }
           }
         }
